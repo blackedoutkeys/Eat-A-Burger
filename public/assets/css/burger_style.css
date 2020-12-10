@@ -1,7 +1,14 @@
+*{
+  background-color: #0F0F23;
+  color: white;
+}
+
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-decoration: none;
   }
   
   .label {
@@ -18,3 +25,8 @@ li {
     margin-bottom: 5px;
   }
   
+.container {
+  max-width: 3500px;
+  margin-left: 0px;
+  margin-right:0px;
+} 
