@@ -9,8 +9,9 @@
 
 This project utilizes a backend management tool to take user input data and place it within a local database which then populates the front end using handlebars, JS, and AJAX calls. This project also is using standard project build formats in terms of organization so the developers can easily navigate to the source code, if anything were to break. 
 
-## Demo
+## Link
 
+ [Direct Link To Project](https://infinite-stream-20968.herokuapp.com/) <br>
 
  ## Table of Contents
 
@@ -33,11 +34,7 @@ This project utilizes a backend management tool to take user input data and plac
   * [Questions](#Questions) <br>
 
 
-  ## Description
-  
-
-
-  ## Installation
+   ## Installation
   npm install within your CLI to run dependencies
 
   0Project makes use of:
@@ -98,7 +95,7 @@ Once all items are delted the database is emptied out:
   ifrishman89@gmail.com
 
   ## GitHub
-  [Direct Link To Project](https://github.com/emkaygru/Eat-A-Burger) <br>
+  [Direct Link To Project](https://github.com/blackedoutkeys/Eat-A-Burger) <br>
 
   ## Questions 
 
