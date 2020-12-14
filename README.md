@@ -7,10 +7,10 @@
 
   ## Summary
 
+This project utilizes a backend management tool to take user input data and place it within a local database which then populates the front end using handlebars, JS, and AJAX calls. This project also is using standard project build formats in terms of organization so the developers can easily navigate to the source code, if anything were to break. 
 
 ## Demo
 
-  [YouTube Demo]()
 
  ## Table of Contents
 
@@ -51,15 +51,35 @@
 
   ## Images 
 
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
-![Image of whatever](   )
+  The user is greeted by this home screen when using the app.
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/homescreen.png)
+
+These are my vector images I use on the app.
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/tinyburger.png)
+
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/cuteburger.png)
+
+The user then enters the burger in the data field and clicks add, which populates the user input into the database list.
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/add.png)
+
+Database List:
+
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/tomenu.png)
+
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/databaselist.png)
+
+Then if the user clikcs on 'Devour' the item will populate from the first table over to the other, through backend programming.
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/todevoured.png)
+
+If the user chooses to delete from either table you will see the item drop from the view and from the database.
+
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/deletetion.png)
+
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/deletetion2.png)
+
+Once all items are delted the database is emptied out:
+
+![Image of whatever](https://github.com/blackedoutkeys/Eat-A-Burger/blob/main/public/assets/img/emptieddb.png)
 
 
  
