@@ -2,7 +2,6 @@
 $(function() {
     $(".devoured").on("click", function(event) {
       var id = $(this).data("id");
-      var newSleep = $(this).data("newsleep");
   
        
       // Send the PUT request.
@@ -31,7 +30,7 @@ $(function() {
         data: newBurger
       }).then(
         function() {
-          console.log("created new cat");
+          console.log("created new burger");
           // Reload the page to get the updated list
           location.reload();
         }
